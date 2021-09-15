@@ -12,7 +12,7 @@ h1 {
 
 h2 {
     font-size: 32px;
-    text-shadow: 4px 4px #808080;
+    text-shadow: 4px 4px 2px #808080;
 }
 
 p{
@@ -53,7 +53,7 @@ div{
 }
 
 #yellow h2{
-    text-shadow: 4px 4px #c7e2c7;
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green{
